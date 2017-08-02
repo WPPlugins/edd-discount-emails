@@ -1,0 +1,4 @@
+EDD Discount Emails
+
+March 27, 2016 - version 1.0
+* Initial version
